@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/textView55"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="316dp"
+        android:layout_marginTop="364dp"
+        android:fontFamily="monospace"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="240dp"
+        android:layout_marginTop="144dp"
+        android:fontFamily="monospace"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView35"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="316dp"
+        android:layout_marginTop="216dp"
+        android:fontFamily="monospace"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView51"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="240dp"
+        android:layout_marginTop="364dp"
+        android:fontFamily="monospace"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView44"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="164dp"
+        android:layout_marginTop="292dp"
+        android:fontFamily="monospace"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView42"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="292dp"
+        android:fontFamily="monospace"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="164dp"
+        android:layout_marginTop="68dp"
+        android:fontFamily="monospace"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView52"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="364dp"
+        android:fontFamily="monospace"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView53"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="88dp"
+        android:layout_marginTop="364dp"
+        android:fontFamily="monospace"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView34"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="164dp"
+        android:layout_marginTop="216dp"
+        android:fontFamily="monospace"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView25"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="316dp"
+        android:layout_marginTop="144dp"
+        android:fontFamily="monospace"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView33"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="88dp"
+        android:layout_marginTop="216dp"
+        android:fontFamily="monospace"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView31"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="240dp"
+        android:layout_marginTop="216dp"
+        android:fontFamily="monospace"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="144dp"
+        android:fontFamily="monospace"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView24"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="164dp"
+        android:layout_marginTop="144dp"
+        android:fontFamily="monospace"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="68dp"
+        android:fontFamily="monospace"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView23"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="88dp"
+        android:layout_marginTop="144dp"
+        android:fontFamily="monospace"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView43"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="88dp"
+        android:layout_marginTop="292dp"
+        android:fontFamily="monospace"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView32"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="216dp"
+        android:fontFamily="monospace"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="240dp"
+        android:layout_marginTop="68dp"
+        android:fontFamily="monospace"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="88dp"
+        android:layout_marginTop="68dp"
+        android:fontFamily="monospace"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView41"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="240dp"
+        android:layout_marginTop="292dp"
+        android:fontFamily="monospace"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="316dp"
+        android:layout_marginTop="68dp"
+        android:fontFamily="monospace"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView45"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="316dp"
+        android:layout_marginTop="292dp"
+        android:fontFamily="monospace"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView54"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="164dp"
+        android:layout_marginTop="364dp"
+        android:fontFamily="monospace"
+        android:text=""
+        android:textAlignment="center"
+        android:textSize="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
